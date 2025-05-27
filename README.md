@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasannadevi R</h1>
-<h3 align="center">Aspiring Full-Stack Developer – Java and Web Tech Enthusiast</h3>
+
 
 ## 👩‍💻 About Me
 

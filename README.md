@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasannadevi R</h1>
+<h3 align="center">Aspiring Full-Stack Developer – Java and Web Tech Enthusiast</h3>
 
 ## 👩‍💻 About Me
 
@@ -8,17 +9,15 @@
 🚀 On a journey to become a proficient developer — one line of code at a time.
 
 ## 📫 How to reach me  
-**prasannadeviramesh.r@gmail.com**
 
-## 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/prasannadevi-r-763512291/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<p >
+ 📧 <strong>prasannadeviramesh.r@gmail.com</strong> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/prasannadevi-r-763512291/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ## 🛠️ Languages and Tools:
-<p align="left">
+
+<p>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -44,6 +43,8 @@
 
 ## 🎯 My Learning Journey
 
+<p align="center">
+
 | **Skill** | **Progress** |
 |-----------|--------------|
 | ![Java](https://img.shields.io/badge/Java-orange?logo=java) | ▰▰▰▰▱ (4/5) |
@@ -55,9 +56,13 @@
 | ![Git](https://img.shields.io/badge/Git-red?logo=git) | ▰▰▱▱▱ (2/5) |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap) | ▰▰▱▱▱ (2/5) |
 
+</p>
+
 ## 💡 LeetCode Contributions
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/prasannadevi15?theme=light&font=PT%20Sans&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prasannadevi15?theme=light&font=PT%20Sans&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ## 📊 GitHub Stats
 

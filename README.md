@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasannadevi R</h1>
-<p align="center">
-  <img src="https://s8.ezgif.com/tmp/ezgif-8be292d222d5ba.webp" alt="Full Stack GIF" width="600"/>
-</p>
+
 
 
 ## 👩‍💻 About Me

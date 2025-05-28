@@ -7,7 +7,9 @@
 💻 Currently diving deeper into **Java**, **web technologies**, and **databases**.  
 🌱 I’m also learning **Data Structures in Java** to strengthen my problem-solving and coding skills.  
 🚀 On a journey to become a proficient developer — one line of code at a time.
-
+<p align="center">
+  <img src="https://s8.ezgif.com/tmp/ezgif-8be292d222d5ba.webp" alt="Full Stack GIF" width="1100"/>
+</p>
 ## 📫 How to reach me  
 
 <p >

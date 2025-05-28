@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prasannadevi R</h1>
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/1_yw0TnheAGN-LPneDaTlaxw.gif?raw=true" alt="Full Stack Developer" width="600"/>
+  <img src="https://raw.githubusercontent.com/prasannadeviramesh/prasannadeviramesh/main/assets/1_yw0TnheAGN-LPneDaTlaxw.gif" alt="Full Stack Developer" width="600"/>
 </p>
+
 
 
 

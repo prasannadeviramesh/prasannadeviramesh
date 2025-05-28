@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasannadevi R</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prasannadeviramesh/prasannadeviramesh/main/1_yw0TnheAGN-LPneDaTlaxw.gif" alt="Full Stack Developer" width="600"/>
+  <img src="https://raw.githubusercontent.com/prasannadeviramesh/prasannadeviramesh/main/1_yw0TnheAGN-LPneDaTlaxw.gif" alt="Full Stack Developer" width="800"/>
 </p>
 
 

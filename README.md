@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prasannadevi R</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasannadeviramesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/prasannadeviramesh/prasannadeviramesh/main/1_yw0TnheAGN-LPneDaTlaxw.gif" alt="Full Stack Developer" width="650"/>
 </p>
-
-
-
-
 
 ## 👩‍💻 About Me
 
@@ -16,9 +17,9 @@
 
 ## 📫 How to reach me  
 
-<p >
+<p>
  📧 <strong>prasannadeviramesh.r@gmail.com</strong> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/prasannadevi-r-763512291/" target="_blank">💼 LinkedIn</a>
+ <a href="https://www.linkedin.com/in/prasannadevi-r-763512291/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ## 🛠️ Languages and Tools:
@@ -70,6 +71,12 @@
   <img src="https://leetcard.jacoblin.cool/prasannadevi15?theme=light&font=PT%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
+## 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannadeviramesh&layout=compact&langs_count=6" alt="Top Languages" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannadeviramesh&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannadeviramesh" alt="GitHub Streak" />
 </p>
 
 <p align="center">

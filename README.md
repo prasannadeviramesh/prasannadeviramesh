@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a 3rd year Computer Science Engineering student passionate about building full-stack web applications.  
+🎓 I'm a final year Computer Science Engineering student passionate about building full-stack web applications.  
 💻 Currently diving deeper into **Java**, **web technologies**, and **databases**.  
 🌱 I’m also learning **Data Structures in Java** to strengthen my problem-solving and coding skills.  
 🚀 On a journey to become a proficient developer — one line of code at a time.

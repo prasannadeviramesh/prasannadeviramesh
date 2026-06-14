@@ -47,11 +47,7 @@
   <img src="https://leetcard.jacoblin.cool/prasannadevi15?theme=light&font=PT%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-## 📌 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannadeviramesh&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
 
 ## 📊 GitHub Stats
 

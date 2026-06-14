@@ -25,11 +25,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools I Use:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,git,github,mysql,postman,vscode" alt="Tech stack" />
-</p>
 
 ## 🎯 My Learning Journey
 

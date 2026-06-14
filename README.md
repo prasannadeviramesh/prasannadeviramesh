@@ -10,10 +10,12 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a final year Computer Science Engineering student passionate about building full-stack web applications.  
-💻 Currently diving deeper into **Java**, **web technologies**, and **databases**.  
-🌱 I’m also learning **Data Structures in Java** to strengthen my problem-solving and coding skills.  
-🚀 On a journey to become a proficient developer — one line of code at a time.
+
+🎓 I'm a Computer Science Engineering graduate passionate about building full-stack web applications.
+
+💻 Currently diving deeper into Java, web technologies, and databases.
+
+🌱 I'm also learning Data Structures in Java to strengthen my problem-solving and coding skills.
 
 ## 📫 How to reach me  
 
@@ -39,10 +41,7 @@
 | ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) | ▰▰▰▰▰ (5/5) |
 | ![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3) | ▰▰▰▱▱ (3/5) |
 | ![MySQL](https://img.shields.io/badge/MySQL-lightblue?logo=mysql) | ▰▰▰▰▰ (5/5) |
-| ![Python](https://img.shields.io/badge/Python-blue?logo=python) | ▰▰▱▱▱ (2/5) |
-| ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman) | ▰▰▱▱▱ (2/5) |
-| ![Git](https://img.shields.io/badge/Git-red?logo=git) | ▰▰▱▱▱ (2/5) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap) | ▰▰▱▱▱ (2/5) |
+
 
 </p>
 
